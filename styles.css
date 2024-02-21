@@ -1,0 +1,59 @@
+body {
+    background-color: #f2f2f2;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+header {
+    background-color: #e6e6e6;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 60px;
+    height: 80px;
+}

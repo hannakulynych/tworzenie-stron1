@@ -1,0 +1,61 @@
+Разрешите уведомления Gmail на рабочем столе.
+   ОК  Нет, спасибо
+Сообщения
+Использовано 6,63 ГБ из 15 ГБ.
+Условия использования · Конфиденциальность · Правила программы
+Последние действия в аккаунте: 2 дня назад
+Подробные сведения
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color:  #FFC0CB;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #FFB6C1;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color:#FFC0CB ;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.movie {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+}
